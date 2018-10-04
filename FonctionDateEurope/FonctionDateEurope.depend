@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527593841 source:u:\tp\fonctiondateeurope\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../utilitaires/entetes/dateEu.h"
+
+1527593856 source:u:\tp\fonctiondateeurope\dateeu.c
+
+1527593841 u:\utilitaires\entetes\dateeu.h
+

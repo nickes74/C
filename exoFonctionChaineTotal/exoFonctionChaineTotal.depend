@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527001741 source:u:\tp\exofonctionchainetotal\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	"chaine.h"
+
+1527001741 source:u:\tp\exofonctionchainetotal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"chaine.h"
+
+1527001153 u:\tp\exofonctionchainetotal\chaine.h
+

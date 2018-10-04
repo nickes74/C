@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527163249 source:u:\tp\exolecttxtecritbin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"U:\utilitaires\entetes\chaines.h"
+
+1508504752 u:\utilitaires\entetes\chaines.h
+

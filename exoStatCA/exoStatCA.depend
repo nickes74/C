@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528202741 source:u:\tp\exostatca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"R:\C\utilitaires\entetes\chaines.h"
+
+1508504752 r:\c\utilitaires\entetes\chaines.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527000670 source:u:\tp\essaistructurefraction\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fraction.h"
+
+1527000339 u:\tp\essaistructurefraction\bin\fraction.h
+
+1527000339 u:\tp\essaistructurefraction\fraction.h
+
+1527000851 source:u:\tp\essaistructurefraction\fraction.c
+	<stdio.h>
+	<stdlib.h>
+	"fraction.h"
+

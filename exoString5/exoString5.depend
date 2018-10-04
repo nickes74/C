@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526507205 source:c:\users\nicol\onedrive\documents\exoscodeblocks\exostring5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

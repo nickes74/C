@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1528458096 source:u:\tp\exoeditionnotestagiaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"R:\C\evaluation\entetes\stagiaire.h"
+	"R:\C\evaluation\entetes\matiere.h"
+	"R:\C\evaluation\entetes\note.h"
+	"U:\utilitaires\entetes\chaines.h"
+
+1510843356 r:\c\evaluation\entetes\stagiaire.h
+
+1461675256 r:\c\evaluation\entetes\matiere.h
+	<stdio.h>
+
+1510845557 r:\c\evaluation\entetes\note.h
+
+1508504752 u:\utilitaires\entetes\chaines.h
+

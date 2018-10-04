@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1527845917 source:u:\tp\exofactureclient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"U:\utilitaires\entetes\chaines.h"
+	"U:\utilitaires\entetes\client.h"
+
+1508504752 u:\utilitaires\entetes\chaines.h
+
+1524385802 u:\utilitaires\entetes\client.h
+

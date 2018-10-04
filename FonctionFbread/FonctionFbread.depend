@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527665060 source:u:\tp\fonctionfbread\main.c
+	<stdio.h>
+	<stdlib.h>
+

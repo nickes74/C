@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527151749 source:u:\tp\exofichier1agences\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../utilitaires/entetes/agences.h"
+
+1524143714 u:\utilitaires\entetes\agences.h
+

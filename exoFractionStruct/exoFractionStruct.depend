@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526992831 source:u:\tp\exofractionstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+
